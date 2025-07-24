@@ -1,4 +1,4 @@
-Hello, I'm @BretonL 
+Hello, I'm Lianca E. Breton R.
 - 👀 I am interested in the area of ​​software development.
 - 🌱 I am currently learning Javascript and other programming languages. 
 - 😄
